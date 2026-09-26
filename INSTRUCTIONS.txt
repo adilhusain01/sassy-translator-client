@@ -1,0 +1,36 @@
+Sassy Extension - Installation & Usage Guide
+=====================================================
+
+Thank you for purchasing Sassy!
+
+Follow these steps to install and use your extension:
+
+1. Open Google Chrome and go to:
+   chrome://extensions/
+
+2. Enable "Developer mode" (toggle in the top right corner).
+
+3. Click "Load unpacked" and select the "dist" folder.
+
+4. The Sassy icon will appear in your browser toolbar.
+
+How to Use:
+-----------
+1. Click the extension icon to open the popup.
+2. Enter your Gemini API key (get it from Google AI Studio).
+3. Choose your sass level.
+4. Save your preferences.
+5. Select any text on a webpage, right-click, and choose "Make it Sassy" from the context menu.
+6. The assignation will appear as a stylish overlay on the page.
+
+Troubleshooting:
+----------------
+- Make sure your API key is valid and active.
+- The extension works on most websites, but not on Chrome Web Store or internal browser pages.
+- If you see errors, reload the page or check your API key.
+
+Support:
+--------
+For help or feedback, contact: husainadil202@gmail.com
+
+Enjoy the Sass!
