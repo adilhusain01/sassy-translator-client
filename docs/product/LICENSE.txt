@@ -1,0 +1,10 @@
+Sassy Extension
+Copyright (c) 2025 Adil Husain
+
+All rights reserved.
+
+This extension is licensed for personal use only. Redistribution, resale, or modification of the source code or packaged extension is strictly prohibited without written permission from the author.
+
+Unauthorized copying, sharing, or publishing of this extension or its code is not allowed.
+
+For commercial licensing or partnership inquiries, contact: adilhusain01@gmail.com
